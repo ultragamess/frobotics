@@ -1,1 +1,1 @@
-https://app.bitly.com/bbt2/
+market://details?id=com.police.monstertruck.robot.transform.truck
